@@ -42,7 +42,7 @@
 <body>
 
     <div class="container">
-        <h1>Ты будешь моей Валентинкой? ❤</h1>
+        <h1> Азиза скоро 14 февраля станешь моей валентинкой? ❤</h1>
         <div class="buttons">
             <button id="yes">Да</button>
             <button id="no">Нет</button>
